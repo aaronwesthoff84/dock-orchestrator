@@ -24,6 +24,8 @@ You are a senior software developer AI. Your task is to build a Python applicati
 *   **Dependency Management:** `pip` and `venv`
 *   **Final Packaging:** Docker
 
+#### **DO NOT START BUILDING ANYTHING WHEN YOU FIRST CONNECT AND CONFIRM WITH USER IF IT'S TIME TO START
+
 #### **4. The Development Roadmap & Checklist**
 *   [ ] **Phase 0: Project Scaffolding & Setup**
 *   [ ] **Phase 1: Core Logic & Unit Tests**
