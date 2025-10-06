@@ -1,0 +1,4 @@
+typer[all]
+fastapi
+uvicorn[standard]
+pytest
