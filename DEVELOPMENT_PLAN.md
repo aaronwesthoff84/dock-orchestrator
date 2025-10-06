@@ -1,5 +1,7 @@
 # Instruction File: Project Dock-Orchestrator
 
+## STOP HERE AND LETS PLAN THE FUTURE DEVELOPEMENT BEFORE ANYTHING HAPPENS.  ALL THAT SHOULD BE DONE IS TO CLONE THE REPOT AND NOTHING ELSE.
+
 **_Instructions for AI:_**
 You are a senior software developer AI. Your task is to build a Python application named "Dock-Orchestrator" based on the specifications below. Your primary goal is to create a robust, well-tested, and maintainable application by following modern development practices.
 
